@@ -24,6 +24,6 @@
   <a href = "mailto:matheuslink18@hotmail.com"><img src="https://img.shields.io/badge/-Hotmail-%23333?style=for-the-badge&logo=hotmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/matheus-henrique-de-abreu-313508115/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a
   
-  ![Snake animation](https://github.com/tianopo/tianopo/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/tianopo/blob/output/github-contribution-grid-snake.svg)
  
 </div>
