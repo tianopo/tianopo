@@ -1,8 +1,7 @@
 ### Oi! Eu sou o Matheus Henrique, estudante de programação e tecnologia 👋
 
-- 🔭 Hoje estou procurando uma oportunidade
-- 🌱 Estudando e me aperfeiçoando em Javascript (POO), typescript e etc.
-- 💬 Contate-me no E-mail: matheuslink18@hotmail.com
+- 🔭 Hoje estou procurando uma oportunidade na área de programação
+- 🌱 Estudando e me aperfeiçoando em Javascript (POO), typescript e outras áreas.
 - 😄 Pronouns: ele/dele
 
 <div align="center">
@@ -23,5 +22,8 @@
   
 <div>  
   <a href = "mailto:matheuslink18@hotmail.com"><img src="https://img.shields.io/badge/-Hotmail-%23333?style=for-the-badge&logo=hotmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/matheus-henrique-de-abreu-313508115/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/matheus-henrique-de-abreu-313508115/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a
+  
+  ![Snake animation](https://github.com/tianopo/tianopo/blob/output/github-contribution-grid-snake.svg)
+ 
 </div>
