@@ -1,7 +1,7 @@
-### Oi! Eu sou o Matheus Henrique, estudante de programação e tecnologia 👋
+### Oi! Eu sou o Matheus Henrique, trabalhador em desenvolvimento de sistemas 👋
 
 - 🔭 Hoje estou procurando uma oportunidade na área de programação
-- 🌱 Estudando e me aperfeiçoando em Javascript (POO), typescript e outras áreas
+- 🌱 Trabalhador Freelancer
 - 😄 Pronouns: ele/dele
 
 <div align="center">
