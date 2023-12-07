@@ -1,8 +1,6 @@
-### Oi! Eu sou o Matheus Henrique, trabalhador em desenvolvimento de sistemas 👋
+### Oi! Eu sou o Matheus Henrique, trabalhador em desenvolvimento web e web3 👋
 
-- 🔭 Hoje estou procurando uma oportunidade na área de programação
-- 🌱 Trabalhador Freelancer
-- 😄 Pronouns: ele/dele
+- 🌱 Trabalhador Freelancer e PJ
 
 <div align="center">
   <a href="https://github.com/tianopo">
