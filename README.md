@@ -1,4 +1,4 @@
-### Oi! Eu sou o Matheus Henrique, trabalhador em desenvolvimento web e web3 👋
+### Oi! Eu sou o Matheus Henrique, trabalhador em desenvolvimento web tenho grande interesse em aprender web3 👋
 
 - 🌱 Trabalhador Freelancer e PJ
 
