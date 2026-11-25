@@ -1,4 +1,4 @@
-### Oi! Eu sou o Matheus Henrique, trabalhador em desenvolvimento web tenho grande interesse em aprender web3 👋
+### Oi! Eu sou o Matheus Henrique, Dono da Cryptotech, empresa de promoção de vendas de ativos digitais 👋
 
 - 🌱 Trabalhador Freelancer e PJ
 
